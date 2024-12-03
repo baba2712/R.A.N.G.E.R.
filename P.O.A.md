@@ -5,7 +5,7 @@
 
 ---
 
-## **Execution Plan**
+## **Plan of Action**
 
 The project is divided into four main parts for clarity and focus. Each part tackles a specific aspect, from building the electronics to designing the housing and deploying the system.
 
